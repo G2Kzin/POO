@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.instagram.com/064_feelipe.zl">Felipe Ferreira </a>
+    <a href="https://www.instagram.com/064_feelipe.zl">Felipe </a>
     e esse é meu repositório de POO em JAVA
   </h1>
   
